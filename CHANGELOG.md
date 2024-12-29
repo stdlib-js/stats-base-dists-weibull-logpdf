@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b87254d`](https://github.com/stdlib-js/stdlib/commit/b87254d4535a3b90bf3d0068750ed6e9ca5dbc85) - **docs:** fix parameter descriptions in Weibull distribution packages _(by Philipp Burckhardt)_
 -   [`4e93083`](https://github.com/stdlib-js/stdlib/commit/4e930835186289973b9bf3600a9a66bfddef1ae3) - **feat:** add C implementation of `stats/base/dists/weibull/logpdf` _(by Vinit Pandit, Philipp Burckhardt)_
 
 </details>
