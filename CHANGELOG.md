@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c4ef550`](https://github.com/stdlib-js/stdlib/commit/c4ef5500174a0d77a90b1a72be560938ac56d58d) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`33a4af8`](https://github.com/stdlib-js/stdlib/commit/33a4af8ea02d79120618cb4d50edb87d8aeab6a0) - **chore:** remove extra spaces _(by Philipp Burckhardt)_
 -   [`97c434d`](https://github.com/stdlib-js/stdlib/commit/97c434de1ac819d4f616202b10ebdce3970a76d8) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`0d52a8a`](https://github.com/stdlib-js/stdlib/commit/0d52a8a0eec7221c0147185c4ce3317db0458498) - **chore:** minor clean-up _(by Philipp Burckhardt)_
