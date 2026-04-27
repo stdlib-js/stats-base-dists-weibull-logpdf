@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-23)
+## Unreleased (2026-04-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`6a4d961`](https://github.com/stdlib-js/stdlib/commit/6a4d9614841138f791bfad6fc7d694dffff81a6c) - **docs:** propagate recent doc fixes across `stats/base/dists/*` [(#11815)](https://github.com/stdlib-js/stdlib/pull/11815) _(by Philipp Burckhardt)_
 -   [`de1b9a2`](https://github.com/stdlib-js/stdlib/commit/de1b9a2315bb6d25e755bf63979be4b561e220b8) - **docs:** fix incorrect return value in C usage section `weibull/logpdf` [(#10956)](https://github.com/stdlib-js/stdlib/pull/10956) _(by Om-A-osc)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Om-A-osc
+-   Philipp Burckhardt
 
 </section>
 
