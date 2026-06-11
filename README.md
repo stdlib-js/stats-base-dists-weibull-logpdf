@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> [Weibull][weibull-distribution] distribution logarithm of [probability density function][pdf] (PDF).
+> [Weibull][weibull-distribution] distribution natural logarithm of [probability density function][pdf] (PDF).
 
 <section class="intro">
 
@@ -88,7 +88,7 @@ var logpdf = require( '@stdlib/stats-base-dists-weibull-logpdf' );
 
 #### logpdf( x, k, lambda )
 
-Evaluates the logarithm of the [probability density function][pdf] (PDF) for a [Weibull][weibull-distribution] distribution with [shape parameter][shape] `k` and [scale parameter][scale] `lambda`.
+Evaluates the natural logarithm of the [probability density function][pdf] (PDF) for a [Weibull][weibull-distribution] distribution with [shape parameter][shape] `k` and [scale parameter][scale] `lambda`.
 
 ```javascript
 var y = logpdf( 2.0, 1.0, 0.5 );
@@ -212,7 +212,7 @@ logEachMap( 'x: %0.4f, k: %0.4f, λ: %0.4f, ln(f(x;k,λ)): %0.4f', x, k, lambda,
 
 #### stdlib_base_dists_weibull_logpdf( x, k, lambda )
 
-Evaluates the logarithm of the [probability density function][pdf] (PDF) for a [Weibull][weibull-distribution] distribution with [shape parameter][shape] `k` and [scale parameter][scale] `lambda`.
+Evaluates the natural logarithm of the [probability density function][pdf] (PDF) for a [Weibull][weibull-distribution] distribution with [shape parameter][shape] `k` and [scale parameter][scale] `lambda`.
 
 ```c
 double out = stdlib_base_dists_weibull_logpdf( 2.0, 1.0, 0.5 );
